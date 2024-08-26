@@ -41,8 +41,11 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 # Q1: What was the sales performance by product type and SKU in December 2023?
 ![Q1-sale performance analysis-revenue](https://github.com/user-attachments/assets/de8e9248-ce78-4a64-94e5-38de11e5ab49)
 
-👉 Key Takeaways:
-+ 
+👉 **Key Takeaways**:
++ The **Tumbler** product had the **highest** revenue in December 2023, totaling **$147,508**, which contributed to **51%** of the total revenue for that month.
++ The **Can Cooler** came in **second** with a revenue of **$130,286**, accounting for **45%** of the total revenue in December 2023.
++ **Jar Candle** and **Night Light** had the **lowest** performance, with revenues of **$675** and **$474**, respectively.
++ To **boost sales in January 2024**, consider focusing on the **top 10 SKUs with the highest revenue**.
 
 
 
