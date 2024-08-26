@@ -1,4 +1,4 @@
-# Amazon Store's Sales & Marketing Performance Analysis in December 2023
+# Amazon Store's Sales & Marketing Performance Analysis in Dec,2023
 Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Marketing Performance in Dec-2023
 
 |      | Amazon Store's Sales & Marketing Performance Analysis in Dec-2023                          |
@@ -25,15 +25,15 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 + Number of Product Type: 5
 + Number of SKU: 50
 + Average Revenue by SKU: $5,817
-+ Number of SKUs by Product Type with Revenue Higher than the Average Revenue ($5,817)
++ More info:
 
-| Product Type     | Number of SKU |
-|---------------|--------------------------------------|
-| Apron |0| 
-| Can Cooler |6|
-| Jar Candle |0|
-| Night Light |0|
-| Tumbler |13|
+| Product Type     | Number of SKU | Average Revenue | Number of SKU with Revenue Higher than the Average Revenue ($5,817)
+|---------------|--------------------------------------:|--------------------------------------:|--------------------------------------:|
+| Apron |3|$1,830|0| 
+| Can Cooler |16|$8,143|6|
+| Jar Candle |7|$675|0|
+| Night Light |6|$474|0|
+| Tumbler |18|$8,195|13|
 
 
 🌕 Read more: Excel DAX Formulas for Exploratory Data Analysis
