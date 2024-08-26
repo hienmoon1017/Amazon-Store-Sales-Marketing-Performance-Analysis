@@ -15,7 +15,7 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 | Dataset list | The dataset can be downloaded from the link [HERE]() |
 | Metrics explanation | • SKU: Stock Keeping Unit • COGS: Cost Of Goods Sold • P&L: Profit and Loss |
 
-👍 Tools: Excel (Power Query, Power Pivot), DAX (Data Analysis Expressions)
+👍 Tools: Advanced Excel (Power Query, Power Pivot), DAX (Data Analysis Expressions)
 
 # Dataset Diagram
 ![Dataset Diagram](https://github.com/user-attachments/assets/a7e1627b-4885-4ab9-9442-7488837d1618)
