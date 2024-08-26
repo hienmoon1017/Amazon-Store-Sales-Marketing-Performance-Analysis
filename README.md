@@ -47,9 +47,26 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 + **Jar Candle** and **Night Light** had the **lowest** performance, with revenues of **$675** and **$474**, respectively.
 + To **boost sales in January 2024**, consider focusing on the **top 10 SKUs with the highest revenue**.
 
+![Q1-sale performance analysis-PL](https://github.com/user-attachments/assets/ee8ffe97-07b2-4fb3-b5d8-fb7aa215903f)
 
+👉 **Key Takeaways**:
++ The **Tumbler** and **Can Cooler** had good profits, with a P&L of **$17,890** and **$16,361**, respectively. Their P&L margins were **12%** and **13%**, meaning the profit was 12% and 13% of their total revenue.
++ In contrast, the **Night Light**, **Jar Candle**, and **Apron** experienced losses. Their P&L figures were **-$1,109, -$730**, and **-$368**, with P&L margins of **-39%**, **-15%**, and **-7%**, indicating that their losses were 39%, 15%, and 7% of their total revenue.
+
+# Why Night Light, Jar Candle, and Apron lost
+![Revenue Source](https://github.com/user-attachments/assets/30ee61a3-5413-4b4a-97cc-54a116cbabfc)
+
+👉 **Reason**:
++ The **Night Light**, **Apron**, and **Jar Candle** products **heavily relied on advertising** for their revenue, with **85%**, **77%**, and **60%** of their revenue coming from ads, respectively.
+
+💡 _**Recommendations:**_
++ **Optimize advertising campaign performance** by closely monitoring and adjusting key metrics like ROAS (Return on Ad Spend) and CPO (Cost Per Order) to ensure cost efficiency and profitability.
++ **Research user interest** in gift products on the Amazon store to increase revenue from organic (non-ads) sources, thereby reducing dependency on advertising.
 
 # Q2: How did the advertising campaigns contribute to performance in December 2023? What improvements can be made?
+
+![Q2-ads performance analysis](https://github.com/user-attachments/assets/2242e354-82d7-44a4-ad4f-2b6cbd51b903)
+
 
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
 
