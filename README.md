@@ -26,7 +26,7 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 + Number of SKU: 50
 + Number of Campaign Name: 259
 + Average Revenue by SKU: $5,817
-+ More info:
++ _Extra infomation:_
 
 | Product Type     | Number of SKU | Average Revenue | Number of SKU with Revenue Higher than the Average Revenue ($5,817)
 |---------------|--------------------------------------:|--------------------------------------:|--------------------------------------:|
