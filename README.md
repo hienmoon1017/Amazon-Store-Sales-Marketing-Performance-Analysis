@@ -7,7 +7,7 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 | Product type | Gift products | 
 | Department | Sale & Marketing | 
 | Problem statement | Deep dive into key data analytics concepts to uncover useful insights for planning in Jan-2024 | 
-| What are you solving for? | • Q1: What was the sales performance by product type and SKU in December 2023? • Q2: How did the advertising campaigns contribute to performance in December 2023? What improvements can be made? | 
+| What are you solving for? | • Q1: What was the sales performance by product type and SKU in December 2023? • Q2: How to optimize Sale & Advertising Marketing Performance? What improvements can be made? | 
 | Goals/metrics | Analyze sales and marketing performance in Dec-2023 to gain key takeaways for planning in Jan-2024 | 
 | Deliverables | Charts outlining findings and recommendations | 
 | Data period | 1 Dec 2023 - 31 Dec 2023 | 
@@ -24,6 +24,7 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 + Data formatting is correct. No missing or invalid data found. 🌕 Read more: How to use Excel Power Query to Validate Data Quality in Exploratory Data Analysis
 + Number of Product Type: 5
 + Number of SKU: 50
++ Number of Campaign Name: 259
 + Average Revenue by SKU: $5,817
 + More info:
 
@@ -63,9 +64,27 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 + **Optimize advertising campaign performance** by closely monitoring and adjusting key metrics like ROAS (Return on Ad Spend) and CPO (Cost Per Order) to ensure cost efficiency and profitability.
 + **Research user interest** in gift products on the Amazon store to increase revenue from organic (non-ads) sources, thereby reducing dependency on advertising.
 
-# Q2: How did the advertising campaigns contribute to performance in December 2023? What improvements can be made?
+# Q2: How to optimize Sale & Advertising Marketing Performance? What improvements can be made?
 
-![Q2-ads performance analysis](https://github.com/user-attachments/assets/2242e354-82d7-44a4-ad4f-2b6cbd51b903)
+![top 10 highest ROAS by SKU](https://github.com/user-attachments/assets/d8999490-b8ea-4b6b-97cf-96a36885b14c)
+
+👉 **Key Takeaways**:
++ Prioritize the top 10 SKUs with the highest ROAS in Jan,2024
+
+![how to solve with 3 lost product](https://github.com/user-attachments/assets/ebdafa33-5a70-42a9-a075-c49bbeda31b8)
+
+👉 **Key Takeaways**:
++ For the **03 products with losses** (Night Light, Jar Candle, and Apron), turn off campaigns where sales = $0 or where ROAS < 5 and Sales < $100 (_Note:_ ROAS = Sales / Ad Expense)
+
+💡 _**Recommendations:**_
++ Name campaign name logically for easier management
+
+**_Additional charts for optimization ads campaign_**
+![heatmap_ad campaign performance by campaign name](https://github.com/user-attachments/assets/6d3a44a6-3269-486b-a289-cedfa172584c)
+
+_and_
+
+![heatmap_ad campaign performance by SKU](https://github.com/user-attachments/assets/4e53660f-c6f9-4016-83f2-4a333e1553fe)
 
 
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
