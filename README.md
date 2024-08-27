@@ -1,14 +1,14 @@
-# Amazon Store's Sales & Marketing Performance Analysis in Dec,2023
-Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Marketing Performance in Dec-2023
+# Monthly Amazon Store's Sales & Marketing Performance Analysis
+Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Marketing Performance
 
-|      | Amazon Store's Sales & Marketing Performance Analysis in Dec-2023                          |
+|      | Monthly Amazon Store's Sales & Marketing Performance Analysis                         |
 |---------------|--------------------------------------|
 | Industry | E-commerce | 
 | Product type | Gift products | 
 | Department | Sale & Marketing | 
-| Problem statement | Deep dive into key data analytics concepts to uncover useful insights for planning in Jan-2024 | 
-| What are you solving for? | • Q1: What was the sales performance by product type and SKU in December 2023? • Q2: How to optimize Sale & Advertising Marketing Performance? What improvements can be made? | 
-| Goals/metrics | Analyze sales and marketing performance in Dec-2023 to gain key takeaways for planning in Jan-2024 | 
+| Problem statement | Deep dive into key data analytics concepts to uncover useful insights for planning in the next month | 
+| What are you solving for? | • Q1: What was the sales performance by product type and SKU in this month? • Q2: How to optimize Sales & Advertising Marketing Performance? What improvements can be made? | 
+| Goals/metrics | Analyze sales and marketing performance in this month to gain key takeaways for planning in the next month | 
 | Deliverables | Charts outlining findings and recommendations | 
 | Data period | 1 Dec 2023 - 31 Dec 2023 | 
 | Are datasets available? | Yes | 
@@ -21,8 +21,7 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 ![Dataset Diagram](https://github.com/user-attachments/assets/a7e1627b-4885-4ab9-9442-7488837d1618)
 
 # Exploratory Data Analysis (EDA)
-+ Data formatting is correct. No missing or invalid data found. 🌕 Read more: How to use Excel Power Query to Validate Data Quality in Exploratory Data Analysis
-+ Number of Product Type: 5
++ Data formatting is correct. No missing or invalid data was found. 
 + Number of SKU: 50
 + Number of Campaign Name: 259
 + Average Revenue by SKU: $5,817
@@ -36,17 +35,14 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 | Night Light |6|$474|0|
 | Tumbler |18|$8,195|13|
 
-
-🌕 Read more: Excel DAX Formulas for Exploratory Data Analysis
-
-# Q1: What was the sales performance by product type and SKU in December 2023?
+# Q1: What was the sales performance by product type and SKU in this month?
 ![Q1-sale performance analysis-revenue](https://github.com/user-attachments/assets/de8e9248-ce78-4a64-94e5-38de11e5ab49)
 
 👉 **Key Takeaways**:
-+ The **Tumbler** product had the **highest** revenue in December 2023, totaling **$147,508**, which contributed to **51%** of the total revenue for that month.
-+ The **Can Cooler** came in **second** with a revenue of **$130,286**, accounting for **45%** of the total revenue in December 2023.
++ The **Tumbler** product had the **highest** revenue in this month, totaling **$147,508**, which contributed to **51%** of the total revenue for that month.
++ The **Can Cooler** came in **second** with a revenue of **$130,286**, accounting for **45%** of the total revenue in this month.
 + **Jar Candle** and **Night Light** had the **lowest** performance, with revenues of **$675** and **$474**, respectively.
-+ To **boost sales in January 2024**, consider focusing on the **top 10 SKUs with the highest revenue**.
++ To **boost sales in the next month**, consider focusing on the **top 10 SKUs with the highest revenue**.
 
 ![Q1-sale performance analysis-PL](https://github.com/user-attachments/assets/ee8ffe97-07b2-4fb3-b5d8-fb7aa215903f)
 
