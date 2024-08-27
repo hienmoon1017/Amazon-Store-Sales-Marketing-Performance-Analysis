@@ -7,13 +7,13 @@ Here is the summary of requirement to analyze the Amazon Store's Sales &amp; Mar
 | Product type | Gift products | 
 | Department | Sale & Marketing | 
 | Problem statement | Deep dive into key data analytics concepts to uncover useful insights for planning in the next month | 
-| What are you solving for? | • Q1: What was the sales performance by product type and SKU in this month? • Q2: How to optimize Sales & Advertising Marketing Performance? What improvements can be made? | 
+| What are you solving for? | - Q1: What was the sales performance by product type and SKU in this month? <br> - Q2: How to optimize Sales & Advertising Marketing Performance? What improvements can be made? | 
 | Goals/metrics | Analyze sales and marketing performance in this month to gain key takeaways for planning in the next month | 
 | Deliverables | Charts outlining findings and recommendations | 
 | Data period | 1 Dec 2023 - 31 Dec 2023 | 
 | Are datasets available? | Yes | 
 | Dataset list | The dataset can be downloaded from the link [HERE]() |
-| Metrics explanation | • SKU: Stock Keeping Unit • COGS: Cost Of Goods Sold • P&L: Profit and Loss |
+| Metrics explanation | - SKU: Stock Keeping Unit <br> - COGS: Cost Of Goods Sold <br> - P&L: Profit and Loss |
 
 👍 Tools: Advanced Excel (Power Query, Power Pivot), DAX (Data Analysis Expressions)
 
